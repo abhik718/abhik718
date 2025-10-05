@@ -1,16 +1,20 @@
 ## Hi there 👋
+# It's me, Abhik 👋
 
-<!--
-**abhik718/abhik718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst WerkStudent** @Siemens Healthineers  
+🌍 Based in Erlangen, Germany | Passionate about Big Data
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🎓 Studying Computational Engineering at FAU
+- 💼 Worked in healthcare data + supply chain analytics
+- 🔬 Interested in real-time data analytics, data warehousing, ETL pipelines, and ML 
+- ☕ Coffee + Dashboards = ❤️
+
+---
+
+### 📫 Reach Me At
+[![Email](https://img.shields.io/badge/email-abhik.sarkar.718@gmail.com-blue?style=flat&logo=gmail)](mailto:abhik.sarkar.718@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhiksarkar718-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhiksarkar718/)
+[![GitHub](https://img.shields.io/badge/GitHub-abhik.sark-black?style=flat&logo=github)](https://github.com/abhik.sark)
