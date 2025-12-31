@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/portfolio-abhik--sarkar.me-blue?style=flat&logo=google-chrome)](https://abhik-sarkar.me/)
 [![Email](https://img.shields.io/badge/email-abhik.sarkar.718@gmail.com-blue?style=flat&logo=gmail)](mailto:abhik.sarkar.718@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhiksarkar718-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhiksarkar718/)
-[![GitHub](https://img.shields.io/badge/GitHub-abhik.sark-black?style=flat&logo=github)](https://github.com/abhik.sark)
+[![GitHub](https://img.shields.io/badge/GitHub-abhik.sark-black?style=flat&logo=github)](https://github.com/abhik718)
 
 ---
 
@@ -28,185 +28,169 @@ Check my projects and case studies: **https://abhik-sarkar.me/**
 ---
 
 ### Tech stack (icons only — click any icon to open docs / site)
-### Tech stack (icons + name)
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="56" alt="aws"/><br/>
-        <sub><b>AWS (S3)</b></sub>
+<div style="overflow-x:auto;padding:8px 0;">
+  <div style="display:flex;gap:18px;align-items:flex-start;white-space:nowrap;">
+    <!-- AWS -->
+    <div style="text-align:center;flex:0 0 auto;">
+      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" alt="aws"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>AWS</b></div>
+    </div>
+    <!-- Azure -->
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/azure/azure-original.svg" width="56" alt="azure"/><br/>
-        <sub><b>Azure</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/azure/azure-original.svg" width="48" alt="azure"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Azure</b></div>
+    </div>
+    <!-- GCP -->
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="56" alt="gcp"/><br/>
-        <sub><b>GCP</b></sub>
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" alt="gcp"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>GCP</b></div>
+    </div>
+    <!-- Databricks -->
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="56" alt="databricks"/><br/>
-        <sub><b>Databricks</b></sub>
+        <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="48" alt="databricks"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Databricks</b></div>
+    </div>
+    <!-- Snowflake -->
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="56" alt="snowflake"/><br/>
-        <sub><b>Snowflake</b></sub>
+        <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="48" alt="snowflake"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Snowflake</b></div>
+    </div>
+    <!-- dbt -->
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="56" alt="dbt"/><br/>
-        <sub><b>dbt</b></sub>
+        <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="48" alt="dbt"/>
       </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>dbt</b></div>
+    </div>
+    <!-- Spark -->
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/apache_spark/apache_spark-original.svg" width="56" alt="spark"/><br/>
-        <sub><b>Spark</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/apache_spark/apache_spark-original.svg" width="48" alt="spark"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Spark</b></div>
+    </div>
+    <!-- Kafka -->
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kafka/kafka-original.svg" width="56" alt="kafka"/><br/>
-        <sub><b>Kafka</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kafka/kafka-original.svg" width="48" alt="kafka"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Kafka</b></div>
+    </div>
+    <!-- S3 -->
+    <div style="text-align:center;flex:0 0 auto;">
+      <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" width="48" alt="s3"/>
+      </a>
+      <div style="font-size:12px;margin-top:6px;"><b>AWS S3</b></div>
+    </div>
+    <!-- Informatica -->
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://www.informatica.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" width="56" alt="informatica"/><br/>
-        <sub><b>Informatica</b></sub>
+        <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" width="48" alt="informatica"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Informatica</b></div>
+    </div>
+    <!-- Teradata -->
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://www.teradata.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/teradata/teradata-icon.svg" width="56" alt="teradata"/><br/>
-        <sub><b>Teradata</b></sub>
+        <img src="https://www.vectorlogo.zone/logos/teradata/teradata-icon.svg" width="48" alt="teradata"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Teradata</b></div>
+    </div>
+    <!-- Databases group (MySQL / Postgres / Oracle / SQL Server) -->
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg" width="56" alt="mysql"/><br/>
-        <sub><b>MySQL</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg" width="48" alt="mysql"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>MySQL</b></div>
+    </div>
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original-wordmark.svg" width="56" alt="postgresql"/><br/>
-        <sub><b>Postgres</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original-wordmark.svg" width="48" alt="postgresql"/>
       </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Postgres</b></div>
+    </div>
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/oracle/oracle-original.svg" width="56" alt="oracle"/><br/>
-        <sub><b>Oracle DB</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/oracle/oracle-original.svg" width="48" alt="oracle"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Oracle</b></div>
+    </div>
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="56" alt="mssql"/><br/>
-        <sub><b>SQL Server</b></sub>
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" alt="mssql"/>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="56" alt="python"/><br/>
-        <sub><b>Python</b></sub>
+      <div style="font-size:12px;margin-top:6px;"><b>SQL Server</b></div>
+    </div>
+    <!-- Languages & libs -->
+    <div style="text-align:center;flex:0 0 auto;">
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="48" alt="python"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Python</b></div>
+    </div>
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original.svg" width="56" alt="pandas"/><br/>
-        <sub><b>Pandas</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original.svg" width="48" alt="pandas"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Pandas</b></div>
+    </div>
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg" width="56" alt="numpy"/><br/>
-        <sub><b>NumPy</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg" width="48" alt="numpy"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>NumPy</b></div>
+    </div>
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="56" alt="scikitlearn"/><br/>
-        <sub><b>scikit-learn</b></sub>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" alt="scikitlearn"/>
       </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scala/scala-original.svg" width="56" alt="scala"/><br/>
-        <sub><b>Scala</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://jinja.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jinja/jinja-original.svg" width="56" alt="jinja"/><br/>
-        <sub><b>Jinja</b></sub>
-      </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>scikit-learn</b></div>
+    </div>
+    <!-- BI & tools -->
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tableau/tableau-original.svg" width="56" alt="tableau"/><br/>
-        <sub><b>Tableau</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tableau/tableau-original.svg" width="48" alt="tableau"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Tableau</b></div>
+    </div>
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="56" alt="powerbi"/><br/>
-        <sub><b>Power BI</b></sub>
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" alt="powerbi"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Power BI</b></div>
+    </div>
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://www.qlik.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/qliktech/qliktech-icon.svg" width="56" alt="qlik"/><br/>
-        <sub><b>Qlik Sense</b></sub>
+        <img src="https://www.vectorlogo.zone/logos/qliktech/qliktech-icon.svg" width="48" alt="qlik"/>
       </a>
-    </td>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Qlik Sense</b></div>
+    </div>
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="56" alt="git"/><br/>
-        <sub><b>Git</b></sub>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" alt="git"/>
       </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
+      <div style="font-size:12px;margin-top:6px;"><b>Git</b></div>
+    </div>
+    <div style="text-align:center;flex:0 0 auto;">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linux/linux-original.svg" width="56" alt="linux"/><br/>
-        <sub><b>Linux</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linux/linux-original.svg" width="48" alt="linux"/>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://www.erdcloud.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/35320/database.svg" width="56" alt="data-modeling"/><br/>
-        <sub><b>Data Modeling</b></sub>
-      </a>
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
+      <div style="font-size:12px;margin-top:6px;"><b>Linux</b></div>
+    </div>
+  </div>
+</div>
 ---
 
 ### GitHub Stats
