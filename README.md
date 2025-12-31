@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/portfolio-abhik--sarkar.me-blue?style=flat&logo=google-chrome)](https://abhik-sarkar.me/)
 [![Email](https://img.shields.io/badge/email-abhik.sarkar.718@gmail.com-blue?style=flat&logo=gmail)](mailto:abhik.sarkar.718@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhiksarkar718-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhiksarkar718/)
-[![GitHub](https://img.shields.io/badge/GitHub-abhik.sark-black?style=flat&logo=github)](https://github.com/abhik718)
+[![GitHub](https://img.shields.io/badge/GitHub-abhik718-black?style=flat&logo=github)](https://github.com/abhik718)
 
 ---
 
