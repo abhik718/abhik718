@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 Summary
-**Data Engineer** with over **4 years of experience** designing governed data platforms, data warehousing, and scalable ETL/ELT pipelines. Strong background in data modeling, Medallion architecture, and automation with a focus on data quality.
+**Data Engineer** with over **4.5 years of experience** designing governed data platforms, data warehousing, and scalable ETL/ELT pipelines. Strong background in data modeling, Medallion architecture, and automation with a focus on data quality.
 
 ---
 
@@ -60,13 +60,34 @@
 
 ---
 
+---
+
+### 🚀 What I Enjoy Building
+
 <div align="center">
 
-| 📊 GitHub Stats | 🏆 Top Languages |
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhik.sark&show_icons=true&theme=radical" alt="Abhik's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhik.sark&layout=compact&theme=radical" alt="Top languages" />
-</p>
+| ⏱️ Real-time & Streaming | 🏗️ Data Warehousing | ⚡ Automated Pipelines |
+| :---: | :---: | :---: |
+| Dashboards & <br> Streaming ETL | Scalable warehouses & <br> Dimensional models | Testable ETL patterns <br> (dbt / Airflow) |
 
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
+<a href="https://abhik-sarkar.me/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-abhik--sarkar.me-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhiksarkar718/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-abhiksarkar718-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:abhik.sarkar.718@gmail.com">
+<img src="https://img.shields.io/badge/Email-abhik.sarkar.718%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
